@@ -1,0 +1,45 @@
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\bin\Debug\net6.0\fp_stuff.exe
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\bin\Debug\net6.0\fp_stuff.deps.json
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\bin\Debug\net6.0\fp_stuff.runtimeconfig.json
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\bin\Debug\net6.0\fp_stuff.dll
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\bin\Debug\net6.0\fp_stuff.pdb
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\obj\Debug\net6.0\fp_stuff.csproj.AssemblyReference.cache
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\obj\Debug\net6.0\fp_stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\obj\Debug\net6.0\fp_stuff.AssemblyInfoInputs.cache
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\obj\Debug\net6.0\fp_stuff.AssemblyInfo.cs
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\obj\Debug\net6.0\fp_stuff.csproj.CoreCompileInputs.cache
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\obj\Debug\net6.0\fp_stuff.dll
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\obj\Debug\net6.0\refint\fp_stuff.dll
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\obj\Debug\net6.0\fp_stuff.pdb
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\obj\Debug\net6.0\fp_stuff.genruntimeconfig.cache
+C:\Users\GIA\source\repos\fp_stuff\fp_stuff\obj\Debug\net6.0\ref\fp_stuff.dll
+C:\Users\student\Desktop\FinalProject\bin\Debug\net6.0\fp_stuff.exe
+C:\Users\student\Desktop\FinalProject\bin\Debug\net6.0\fp_stuff.deps.json
+C:\Users\student\Desktop\FinalProject\bin\Debug\net6.0\fp_stuff.runtimeconfig.json
+C:\Users\student\Desktop\FinalProject\bin\Debug\net6.0\fp_stuff.dll
+C:\Users\student\Desktop\FinalProject\bin\Debug\net6.0\fp_stuff.pdb
+C:\Users\student\Desktop\FinalProject\obj\Debug\net6.0\fp_stuff.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\FinalProject\obj\Debug\net6.0\fp_stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\FinalProject\obj\Debug\net6.0\fp_stuff.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\FinalProject\obj\Debug\net6.0\fp_stuff.AssemblyInfo.cs
+C:\Users\student\Desktop\FinalProject\obj\Debug\net6.0\fp_stuff.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\FinalProject\obj\Debug\net6.0\fp_stuff.dll
+C:\Users\student\Desktop\FinalProject\obj\Debug\net6.0\refint\fp_stuff.dll
+C:\Users\student\Desktop\FinalProject\obj\Debug\net6.0\fp_stuff.pdb
+C:\Users\student\Desktop\FinalProject\obj\Debug\net6.0\fp_stuff.genruntimeconfig.cache
+C:\Users\student\Desktop\FinalProject\obj\Debug\net6.0\ref\fp_stuff.dll
+C:\Users\GIA\Desktop\final project\bin\Debug\net6.0\fp_stuff.exe
+C:\Users\GIA\Desktop\final project\bin\Debug\net6.0\fp_stuff.deps.json
+C:\Users\GIA\Desktop\final project\bin\Debug\net6.0\fp_stuff.runtimeconfig.json
+C:\Users\GIA\Desktop\final project\bin\Debug\net6.0\fp_stuff.dll
+C:\Users\GIA\Desktop\final project\bin\Debug\net6.0\fp_stuff.pdb
+C:\Users\GIA\Desktop\final project\obj\Debug\net6.0\fp_stuff.csproj.AssemblyReference.cache
+C:\Users\GIA\Desktop\final project\obj\Debug\net6.0\fp_stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIA\Desktop\final project\obj\Debug\net6.0\fp_stuff.AssemblyInfoInputs.cache
+C:\Users\GIA\Desktop\final project\obj\Debug\net6.0\fp_stuff.AssemblyInfo.cs
+C:\Users\GIA\Desktop\final project\obj\Debug\net6.0\fp_stuff.csproj.CoreCompileInputs.cache
+C:\Users\GIA\Desktop\final project\obj\Debug\net6.0\fp_stuff.dll
+C:\Users\GIA\Desktop\final project\obj\Debug\net6.0\refint\fp_stuff.dll
+C:\Users\GIA\Desktop\final project\obj\Debug\net6.0\fp_stuff.pdb
+C:\Users\GIA\Desktop\final project\obj\Debug\net6.0\fp_stuff.genruntimeconfig.cache
+C:\Users\GIA\Desktop\final project\obj\Debug\net6.0\ref\fp_stuff.dll
